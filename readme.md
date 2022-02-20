@@ -17,8 +17,8 @@ token=Yourtokenhere
 4. Open the start.bat file.
 5. Wait until the loading stops.
 6. If the text says `TQuirk is online.` you have succeeded.
-6.5. If there is a error, go [here](https://vixen.wtf/discord.html) and send the error message. ==Someone will assist you==.
-7. done
+7. If there is a error, go [here](https://vixen.wtf/discord.html) and send the error message. **Someone will assist you**.
+8. Done.
 ----------------------------------------------------------------
 # Thank you.
 
