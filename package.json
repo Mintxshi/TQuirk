@@ -1,0 +1,30 @@
+{
+  "name": "tquirk",
+  "version": "1.0.0",
+  "description": "A bot made for typing quirks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mintxshi/TQuirk.git"
+  },
+  "keywords": [
+    "Typing",
+    "quirks",
+    "typingquirks",
+    "discord"
+  ],
+  "author": "Pika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mintxshi/TQuirk/issues"
+  },
+  "homepage": "https://github.com/Mintxshi/TQuirk#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "ora": "^5.4.1",
+    "wokcommands": "^1.5.3"
+  }
+}
